@@ -1,6 +1,6 @@
 # Card
 
-A flutter card focused on stateless widget but include tapping feature of stateful. This only contains the code for the lib folder. To make the project, one should copy the lib files (change data) and they can upload to their project, in their lib folder.
+A flutter card focused on stateless widget but include tapping feature of stateful. On tapping the email or mobile-phone bar, the background-colour changes. This only contains the code for the lib folder. To make the project, one should copy the lib files (change data) and they can upload to their project, in their lib folder.
 
 ## Screenshots
 
