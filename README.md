@@ -1,6 +1,6 @@
 # Card
 
-A flutter card focused on stateless widget but include tapping feature of stateful. On tapping the email or mobile-phone bar, the background-colour changes. This only contains the code for the lib folder. To make the project, one should copy the lib files (change data) and they can upload to their project, in their lib folder.
+A flutter card focused on stateless widget but include tapping feature of stateful widget. On tapping the email or mobile-phone bar, the background-colour changes. This is the code for the lib folder. To make the project, you should copy the lib files (change data) and then upload to their project, in their lib folder.
 
 ## Screenshots
 
@@ -21,9 +21,9 @@ flutter create _your-project-name_
 
 ## Build
 
-Paste the files in the lib folder. You can change the data according to you.
+Paste the files in the lib folder. You can change the data accordingly.
 
-Create 'fonts' folder in your project and add the font- 'quicksand' in this case. If you don't have in your system, then download it- [Quicksand](https://fonts.google.com/specimen/Quicksand).
+Create 'fonts' folder in your project and add the font- 'quicksand'. If you don't have in your system, you can download it from here- [Quicksand](https://fonts.google.com/specimen/Quicksand).
 
 Update your pubspec.yaml file.
 Add-
